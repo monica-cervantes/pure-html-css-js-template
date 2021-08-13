@@ -1,0 +1,28 @@
+{
+  "name": "pure-html-css",
+  "version": "1.0.0",
+  "description": "Pure HTML, CSS and Javascript Template",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monica-cervantes/pure-html-css-js-template.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "template"
+  ],
+  "author": "Monica Cervantes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monica-cervantes/pure-html-css-js-template/issues"
+  },
+  "homepage": "https://github.com/monica-cervantes/pure-html-css-js-template#readme",
+  "dependencies": {
+    "scss-7-in-1": "^1.1.2"
+  }
+}
